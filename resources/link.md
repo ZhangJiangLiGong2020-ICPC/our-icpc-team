@@ -21,6 +21,14 @@
 
 ------------------------------------------------------------
 
+- [ECNU foreigners队伍的板子](https://f0re1gners.github.io/template/WF-Team-Reference-Document.pdf)
+- [ECNU foreigners队伍的板子](https://github.com/F0RE1GNERS/template)
+- [一名前XJTUacmer/YuguOI人气讲师的板子库](https://github.com/justarandomstring/algorithm-templates)
+
+**会写能写的最好不要翻板子,板子库中自己熟悉的代码越多越好**
+
+------------------------------------------------------------
+
 - Concrete Mathematics 具体数学
 - ??? 其他书
 
