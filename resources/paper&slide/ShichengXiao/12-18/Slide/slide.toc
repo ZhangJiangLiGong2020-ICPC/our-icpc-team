@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Preface}{2}{0}{1}
+\beamer@sectionintoc {2}{Basic Knowledge}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Vector}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Line}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Circle And Polygon}{23}{0}{2}
+\beamer@sectionintoc {3}{Basic Algorithms And Problems}{30}{0}{3}
+\beamer@subsectionintoc {3}{1}{Convex Hull}{30}{0}{3}
+\beamer@subsectionintoc {3}{2}{Rotating Calipers}{51}{0}{3}
+\beamer@subsectionintoc {3}{3}{Half-plane Intersection}{68}{0}{3}
+\beamer@sectionintoc {4}{More Algorithms}{86}{0}{4}
+\beamer@subsectionintoc {4}{1}{Inversive Geometry}{86}{0}{4}
+\beamer@subsectionintoc {4}{2}{Minimum Covered Circle}{101}{0}{4}
+\beamer@subsectionintoc {4}{3}{Scanline}{108}{0}{4}
+\beamer@subsectionintoc {4}{4}{Simpson's rule}{118}{0}{4}
+\beamer@sectionintoc {5}{Other Problems}{122}{0}{5}
+\beamer@sectionintoc {6}{The End}{134}{0}{6}

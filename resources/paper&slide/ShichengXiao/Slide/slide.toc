@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Preface}{2}{0}{1}
+\beamer@sectionintoc {2}{FFT}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Preparation}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Procedure}{25}{0}{2}
+\beamer@subsectionintoc {2}{3}{Code}{51}{0}{2}
+\beamer@sectionintoc {3}{NTT}{65}{0}{3}
+\beamer@subsectionintoc {3}{1}{Procedure}{65}{0}{3}
+\beamer@sectionintoc {4}{Problems For FFT/NTT}{71}{0}{4}
+\beamer@subsectionintoc {4}{1}{Preface}{71}{0}{4}
+\beamer@subsectionintoc {4}{2}{Basic Problems}{74}{0}{4}
+\beamer@subsectionintoc {4}{3}{FFT For Some String Problems}{94}{0}{4}
+\beamer@subsectionintoc {4}{4}{CDQ Divide and Conquer+FFT}{99}{0}{4}
+\beamer@subsectionintoc {4}{5}{Inversion of Polynomial}{115}{0}{4}
+\beamer@sectionintoc {5}{FWT}{139}{0}{5}
+\beamer@subsectionintoc {5}{1}{Procedure}{139}{0}{5}
+\beamer@subsectionintoc {5}{2}{Problem}{158}{0}{5}
+\beamer@sectionintoc {6}{The End}{170}{0}{6}
