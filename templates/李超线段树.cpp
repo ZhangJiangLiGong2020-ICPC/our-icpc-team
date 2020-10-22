@@ -1,4 +1,4 @@
-//该题为CF932F。部分内容详见博客。
+//该题为CF932F.部分内容详见博客.
 #include<cstdio>
 #include<cstring>
 #include<iostream>
