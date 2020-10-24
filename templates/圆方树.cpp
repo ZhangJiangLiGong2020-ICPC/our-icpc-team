@@ -1,3 +1,4 @@
+//该题为[APIO2018]铁人两项.具体内容详见别人的博客.
 #include<cstdio>
 #define neko 200010
 #define meko 200010
